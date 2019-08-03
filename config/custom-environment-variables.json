@@ -1,0 +1,6 @@
+{
+	"db": {
+		"dbUsername": "VIDLY_USERNAME",
+		"dbPassword": "VIDLY_PASSWORD"
+	}
+}
